@@ -1,6 +1,7 @@
 body {
-    background-repeat: no-repeat;
-    background: url("bg.jpg");
+    /* background-repeat: no-repeat;
+    background: url("bg.jpg"); */
+    background-color: rgb(14, 37, 37);
   }
   ::selection {
     background: transparent;
